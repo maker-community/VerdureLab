@@ -1,11 +1,27 @@
 # VerdureLab
-前期提供一些适配开源硬件的外壳，例如AI小智之类的外壳，也欢迎大家贡献。
+前期提供一些适配开源硬件的外壳，例如AI小智之类的外壳，也欢迎大家关注或者贡献。
+
+请注意仓库地址：
+
+Github为主要仓库。
+
+Github：https://github.com/maker-community/VerdureLab
+
+Gitee：https://gitee.com/maker-community/VerdureLab
 
 ## 1. Verdure EMO
 
 一个为OTTO小智机器人改进的外壳，主要包含头部的修饰，将头部转换成一个EMO机器人的造型。
 
+注意事项和额外配件物料购买链接请到**verdure-emo**目录查看。
+
+渲染图如下：
+
 ![show image](/verdure-emo/images/show-image.png)
+
+实际图片效果如下点击图片查看详细视频：
+
+[![B站视频演示链接](/verdure-emo/images/otto-emo.jpg)](https://www.bilibili.com/video/BV1gpL6z9E5N/)
 
 模型全部内容如下：
 
