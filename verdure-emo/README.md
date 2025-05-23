@@ -2,6 +2,11 @@
 
 一个为OTTO小智机器人改进的外壳，主要包含头部的修饰，将头部转换成一个EMO机器人的造型。
 
+**verdure-emo原始模型文件.f3z**
+
+f3z格式为Fusion 360建模软件原始格式，有修改模型的需求可以打开修改。
+
+
 Github为主要仓库。
 
 Github：https://github.com/maker-community/VerdureLab
@@ -15,6 +20,7 @@ Gitee：https://gitee.com/maker-community/VerdureLab
 实际图片效果如下点击图片查看详细视频：
 
 [![B站视频演示链接](/verdure-emo/images/otto-emo.jpg)](https://www.bilibili.com/video/BV1gpL6z9E5N/)
+
 
 ![model image](/verdure-emo/images/model-image.png)
 

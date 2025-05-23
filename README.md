@@ -25,6 +25,10 @@ Gitee：https://gitee.com/maker-community/VerdureLab
 
 模型全部内容如下：
 
+**verdure-emo原始模型文件.f3z**
+
+f3z格式为Fusion 360建模软件原始格式，有修改模型的需求可以打开修改。
+
 ![show image](/verdure-emo/images/model-image.png)
 
 OTTO机器人主页地址：
