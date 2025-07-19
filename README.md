@@ -9,7 +9,29 @@ Github：https://github.com/maker-community/VerdureLab
 
 Gitee：https://gitee.com/maker-community/VerdureLab
 
-## 1. Verdure EMO
+## Verdure Duck
+
+一个为OTTO小智机器人改进的外壳，主要包含头部的修饰，将头部转换成一个鸭子机器人的造型。
+
+注意事项和额外配件物料购买链接请到**verdure-duck**目录查看。
+
+渲染图图如下：
+
+![show image](/verdure-duck/images/duck.png)
+
+实际黄色图片如下：
+
+![show image](/verdure-duck/images/yellow-duck.png)
+
+实际粉色图片如下：
+
+![show image](/verdure-duck/images/pink-duck.png)
+
+
+![model image](/verdure-duck/images/model-images.png)
+
+
+## Verdure EMO
 
 一个为OTTO小智机器人改进的外壳，主要包含头部的修饰，将头部转换成一个EMO机器人的造型。
 
