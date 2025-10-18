@@ -11,6 +11,16 @@ Gitee：https://gitee.com/maker-community/VerdureLab
 
 ## Verdure EMO V2
 
+**兼容ottoRobot的主板**
+
+一个为OTTO小智机器人改进的外壳，主要包含头部的修饰，将头部转换成一个EMO机器人的造型。
+
+注意事项和额外配件物料购买链接请到**verdure-emo-v2**目录查看。
+
+实物图如下：
+
+![show image](/verdure-emo-v2/images/real.jpg)
+
 ![show image](/verdure-emo-v2/images/show-image.png)
 
 ## Verdure Duck

@@ -2,6 +2,8 @@
 
 一个为OTTO小智机器人改进的外壳，主要包含头部的修饰，将头部转换成一个EMO机器人的造型。
 
+**兼容ottoRobot主板**
+
 2025年 10月10日 更新v2版本
 
 新增蝴蝶结打断按钮，新增耳朵天线模型，调整脚的左右距离。
@@ -14,7 +16,11 @@ Github：https://github.com/maker-community/VerdureLab
 
 Gitee：https://gitee.com/maker-community/VerdureLab
 
-渲染图图如下：
+实物图如下：
+
+![show image](/verdure-emo-v2/images/real.jpg)
+
+设计图如下：
 
 ![show image](/verdure-emo-v2/images/show-image.png)
 
@@ -37,14 +43,15 @@ https://space.bilibili.com/25228512
 
 ### 注意事项
 
-1. 耳机切割的意思是我有切割一个平面便于FDM打印可以将平面贴到打印台。
 
-2. 4pin的type c拓展头目前网友反馈只能电脑5v供电充电，所以建议大家买5pin的可以支持cc引脚的，这样应该可以支持手机快充充电。
+1. 组装的时候注意准备比较长的螺丝刀，如果不知道如何安装请观看我的组装视频。
+
+### 整体图片如下：
+![total](/verdure-emo-v2/images/total.jpg)
+
 
 ### EMO外壳主要添加的硬件如下：
 
-整体图片如下：
-![total](/verdure-emo-v2/images/total.jpg)
 
 复位按钮局部图用来接键盘的轴的，使用标准键盘轴：
 ![reset button](/verdure-emo-v2/images/reset-button.png)
@@ -56,33 +63,52 @@ https://space.bilibili.com/25228512
 
     [购买地址点击跳转](https://item.taobao.com/item.htm?_u=qqc0n0pbead&id=695284666965&skuId=4931314696348&spm=a1z09.2.0.0.63872e8dE12rZK)
 
-    ![boli](/verdure-emo/images/boli.png)
+    ![boli](/verdure-emo-v2/images/boli.png)
 
 2. 28mm喇叭如果有可以不用购买
 
     [购买地址点击跳转](https://item.taobao.com/item.htm?_u=qqc0n0p773b&id=857879179989&skuId=5670264693293&spm=a1z09.2.0.0.63872e8dE12rZK)
 
-    ![laba](/verdure-emo/images/laba.png)
+    ![laba](/verdure-emo-v2/images/laba.png)
 
-3. USB转接头
+3. USB延长线
 
-    [公头购买地址点击跳转](https://detail.tmall.com/item.htm?id=775104244214&skuId=5303801189114&spm=tbpc.boughtlist.suborder_itemtitle.1.5b392e8d7Lmypw)
+    [usb tpye c延长线购买地址点击跳转](https://e.tb.cn/h.SiwoXWQRCw4tQ7R?tk=MA9If1t7qXT)
 
-    ![gongtou](/verdure-emo/images/usb2.png)
-
-    [母头购买地址点击跳转](https://item.taobao.com/item.htm?id=645766200920&spm=tbpc.boughtlist.suborder_itemtitle.1.5b392e8d7Lmypw)
-
-    ![mutou](/verdure-emo/images/usb.png)
+    ![mutou](/verdure-emo-v2/images/usb-connect.jpg)
 
 4. 开关
 
     [购买地址点击跳转](https://item.taobao.com/item.htm?_u=qqc0n0p1252&id=651818018665&skuId=4870740214324&spm=a1z09.2.0.0.63872e8dE12rZK)
 
-    ![kaiguan](/verdure-emo/images/switch.png)
+    ![kaiguan](/verdure-emo-v2/images/switch.png)
+
+5. 复位按键
+
+    使用标准的机械键盘轴
+
+    [黑木轴购买地址](https://e.tb.cn/h.S80mBDYdEpaw0Dz?tk=En3lf1tR8Wt)
+
+    [金粉轴购买地址](https://e.tb.cn/h.S80n0CLJ4nrY0At?tk=vb7Kf1tjlFo)
 
 
-5. 导线若干
+    ![reset button](/verdure-emo-v2/images/button.jpg)
+
+6. 按键公母口导线
+
+    [导线购买地址](https://e.tb.cn/h.S80n0CLJ4nrY0At?tk=vb7Kf1tjlFo)
+
+
+    ![reset button](/verdure-emo-v2/images/button-connect.jpg)
+
+
+7. 导线若干
 
     这个可以随便搞点
 
-6. 关于螺丝，后盖可以使用M2x4 或者M2x5的固定。前部的可以使用一些尖头m2的螺丝钉固定。
+8. 关于螺丝，后盖可以使用M2x4 或者M2x5的固定。前部的可以使用一些尖头m2的螺丝钉固定。
+    ![kaiguan](/verdure-emo-v2/images/luosi.jpg)
+
+    [推荐螺丝钉购买地址](https://e.tb.cn/h.SRzN79OKDtN2IHM?tk=V0KUfcwR7AC)
+    
+
