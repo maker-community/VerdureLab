@@ -85,7 +85,7 @@ https://space.bilibili.com/25228512
 
 5. 复位按键
 
-    使用标准的机械键盘轴
+    使用标准的机械键盘轴 按自己的喜欢买一颗就行
 
     [黑木轴购买地址](https://e.tb.cn/h.S80mBDYdEpaw0Dz?tk=En3lf1tR8Wt)
 
@@ -96,7 +96,7 @@ https://space.bilibili.com/25228512
 
 6. 按键公母口导线
 
-    [导线购买地址](https://e.tb.cn/h.S80n0CLJ4nrY0At?tk=vb7Kf1tjlFo)
+    [导线购买地址](https://e.tb.cn/h.SRzCgSZtV31oZbR?tk=4m4FfcwHaKF)
 
 
     ![reset button](/verdure-emo-v2/images/button-connect.jpg)
