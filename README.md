@@ -11,9 +11,12 @@ Gitee：https://gitee.com/maker-community/VerdureLab
 
 ## 绿荫伴伴
 
-一个基于涂鸦T5开发板的桌面摆件，里面完整的运行了一个DuckyClaw。
+一个基于涂鸦T5开发板的桌面摆件，里面完整的运行了一个DuckyClaw。路径在/verdure-buddy
+![show image](/verdure-buddy/images/verdure-buddy-new.jpg)
 
 ![show image](/verdure-buddy/images/verdure-buddy.jpg)
+
+
 ## 绿荫搭子
 
 一个基于立创实战派S3拓展的小智聊天盒子，主要是为实战派添加了电源管理模块，和重新设计了外壳，以及添加了电源管理的代码，后期可以进一步拓展成ai助手。
