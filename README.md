@@ -15,6 +15,12 @@ Gitee：https://gitee.com/maker-community/VerdureLab
 
 ![show image](/verdure-pal/images/model.jpg)
 
+开源广场地址：
+https://oshwhub.com/greenshade/project_rfcjzemu
+
+视频地址如下：
+https://www.bilibili.com/video/BV1qijf66E4x/
+
 
 
 ## 绿荫伴伴
