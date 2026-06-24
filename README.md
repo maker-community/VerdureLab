@@ -9,6 +9,14 @@ Github：https://github.com/maker-community/VerdureLab
 
 Gitee：https://gitee.com/maker-community/VerdureLab
 
+## 绿荫小友
+
+这是一个专门基于立创泰山派3M设计制作的桌面小机器人，可以运行小智AI Linux版本和OpenClaw的项目，并且搭配4G模块可以做到持久在线。
+
+![show image](/verdure-pal/images/model.jpg)
+
+
+
 ## 绿荫伴伴
 
 一个基于涂鸦T5开发板的桌面摆件，里面完整的运行了一个DuckyClaw。路径在/verdure-buddy
