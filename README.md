@@ -9,6 +9,42 @@ Github：https://github.com/maker-community/VerdureLab
 
 Gitee：https://gitee.com/maker-community/VerdureLab
 
+
+## 绿荫兜兜
+
+一个圆滚滚的可爱小车机器人，可以跟你对话聊天，也能用语音控制它前进、后退、转向，是一个能陪你玩、听你话的小车伙伴。
+
+详细说明请查看独立仓库，路径在/verdure-buddy-rover
+
+模型源文件为**BuddyRover.f3z**（Fusion 360原始格式），有修改需求可打开修改。
+
+渲染图如下：
+
+![show image](/verdure-buddy-rover/images/face.png)
+
+![show image](/verdure-buddy-rover/images/back.png)
+
+详细仓库地址：
+https://github.com/maker-community/VerdureBuddyRover
+
+固件分支：
+https://github.com/maker-community/xiaozhi-esp32/tree/verdure-buddy-rover
+
+主板适配（M5Stack Atom Echo S3R）：
+https://github.com/maker-community/xiaozhi-esp32/tree/verdure-buddy-rover/main/boards/m5stack/atom-echos3r
+
+## 绿荫
+
+这是一个专门基于立创泰山派3M设计制作的桌面小机器人，可以运行小智AI Linux版本和OpenClaw的项目，并且搭配4G模块可以做到持久在线。
+
+![show image](/verdure-pal/images/model.jpg)
+
+开源广场地址：
+https://oshwhub.com/greenshade/project_rfcjzemu
+
+视频地址如下：
+https://www.bilibili.com/video/BV1qijf66E4x/
+
 ## 绿荫小友
 
 这是一个专门基于立创泰山派3M设计制作的桌面小机器人，可以运行小智AI Linux版本和OpenClaw的项目，并且搭配4G模块可以做到持久在线。
